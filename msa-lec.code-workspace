@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "tips",
-			"path": "..",
+			"path": "../..",
 		},
 	],
 	"settings": {}
