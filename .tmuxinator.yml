@@ -49,5 +49,5 @@ windows:
   - comments: cd ./blog/comments; pnpm i; pnpm start
   - event-bus: cd ./blog/event-bus; pnpm i; pnpm start
   - posts: cd ./blog/posts; pnpm i; pnpm start
-  # - query: cd ./blog/query; pnpm i; pnpm start
+  - query: cd ./blog/query; pnpm i; pnpm start
   - terminal: cd .
