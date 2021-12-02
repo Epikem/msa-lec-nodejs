@@ -50,4 +50,5 @@ windows:
   - event-bus: cd ./blog/event-bus; pnpm i; pnpm start
   - posts: cd ./blog/posts; pnpm i; pnpm start
   - query: cd ./blog/query; pnpm i; pnpm start
+  - moderation: cd ./blog/moderation; pnpm i; pnpm start
   - terminal: cd .
