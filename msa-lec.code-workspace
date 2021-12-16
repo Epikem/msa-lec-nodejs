@@ -9,5 +9,14 @@
 			"path": "../..",
 		},
 	],
-	"settings": {}
+	"settings": {
+		"editor.formatOnSave": true,
+		"javascript.format.enable": true,
+		"[typescript]": {
+			"editor.defaultFormatter": "esbenp.prettier-vscode",
+		},
+		"[javascript]": {
+			"editor.defaultFormatter": "esbenp.prettier-vscode",
+		}
+	}
 }
